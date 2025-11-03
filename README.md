@@ -1,6 +1,6 @@
 # Toy-Topia | Toy Shop React App
 
-**Live Demo:** [Your Live URL Here](https://toy-topia-93fc0.web.app/)
+**Live Demo:** [Your Live URL Here](https://luminous-basbousa-ec1a1a.netlify.app/)
 
 A **responsive Toy Shop website** built with **React**, **Firebase Authentication**, and **Tailwind CSS + DaisyUI**.  
 This project allows users to browse toys, manage their profile, contact support, and read fun toy-related blogs.
@@ -43,6 +43,5 @@ It helps kids and parents explore toys, contact the store, and read toy-related 
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/programming-hero-web-course2/b12-a9-firesheild-mdriyazakondo.git
-```
+
+
